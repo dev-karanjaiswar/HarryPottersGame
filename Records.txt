@@ -1,0 +1,5 @@
+karan:Hufflepuff
+raza:Slytherin
+chirag:Gryffindor
+vignesh:Ravenclaw
+shivam:Ravenclaw
